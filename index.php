@@ -1,5 +1,5 @@
 
-<?php include('ambient-digital-community/header.php') ?>
+<?php include('header.php') ?>
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-<?php  include 'ambient-digital-community/footer.php' ?>
+<?php  include 'footer.php' ?>
 
     
 
